@@ -1,0 +1,44 @@
+body{
+    background-color: burlywood;
+}
+
+.banner-img{
+    background-color: cornsilk;
+    padding: 30px;
+    margin: 0px;
+    padding-left: 30%;
+    border: darkgoldenrod solid 2px;
+}
+img{
+    height: 30%;
+    width: 50%;
+    
+}
+.division{
+    background-color:cornsilk;
+    text-align: left;
+    padding-left:30%;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    color: indianred;
+    margin-top: 10px;
+}
+
+.about{
+    background-color: cornsilk;
+    color: indianred;
+    padding-left: 30%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+
+.input-form{
+    text-align: center;
+    background-color: cornsilk;
+    color: indianred;
+    padding: 20px;
+}
